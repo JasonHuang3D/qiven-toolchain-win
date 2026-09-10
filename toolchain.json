@@ -5,6 +5,11 @@
             "version": "19.1.7",
             "path": "bin/clang-format.exe",
             "source": "llvm-project/llvmorg-19.1.7"
+        },
+        "cmake": {
+            "version": "4.4.3",
+            "path": "cmake/bin/cmake.exe",
+            "source": "Kitware/CMake/v4.4.3"
         }
     }
 }
