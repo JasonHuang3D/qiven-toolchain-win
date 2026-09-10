@@ -1,0 +1,10 @@
+{
+    "schema_version": 1,
+    "tools": {
+        "clang-format": {
+            "version": "19.1.7",
+            "path": "bin/clang-format.exe",
+            "source": "llvm-project/llvmorg-19.1.7"
+        }
+    }
+}
